@@ -1,14 +1,8 @@
 
 [
     {
-        "id":1,
-        "titulo":"The Godfather",
-        "director": "Francis Ford Coppola",
-        "fecha_publicación": "1972",
-        "genero":"Crimen/Drama",
-        "valoración":"5"
-        
-    } ,
+        "logs": ,
+        "timestamp" : ,    } ,
 
 
     { 
